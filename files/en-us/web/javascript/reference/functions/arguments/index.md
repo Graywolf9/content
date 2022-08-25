@@ -175,7 +175,7 @@ function func(a) {
 func(10); // 99
 ```
 
-And also:
+And also we can see with:
 
 ```js
 function func(a) {
